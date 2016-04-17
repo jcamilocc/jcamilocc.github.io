@@ -1,0 +1,251 @@
+/*font-family: 'Shadows Into Light', cursive;
+ font-family: 'Indie Flower', cursive;
+*/
+
+#contenidos{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	
+
+}
+
+
+
+/*ETIQUETAS*/
+body{
+background-image: url(../img/fondo3.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+font-family: 'Shadows Into Light', cursive;
+color: black;
+margin-left: 10px;
+font-size: 38px;
+text-align: center; 
+}
+
+h2{
+font-family: 'Fjalla One', sans-serif;
+color: black;
+margin-left: 10px;
+font-size: 20px;
+text-align: left; 
+}
+
+h3{
+ 	font-family: 'Alegreya Sans', sans-serif;
+ 	
+    color: white;
+ 	font-size: 15px;
+ 	text-align: center; 
+ }
+ 
+ 
+
+
+header{
+	width: 1000px;
+	height: 120 px;
+	background: rgba(255, 255, 255, 10,70);
+}
+
+nav{
+width: 1000px;
+height: 100px;
+background: pink;
+border-radius: 10px;
+
+}
+ul{
+margin: auto;
+padding-top: 2px;
+border-radius:10px;
+}
+
+li{
+	float: left;
+		list-style-type: none;
+		padding: 8px;
+		margin-right:20px;
+		margin: 3px;
+		border-radius: 10px;
+		box-shadow: 0 0 10px white inset;
+}
+p{
+
+font-family: 'Fjalla One', sans-serif;
+color: black;
+line-height: 0.7;
+margin-left: 10px;
+font-size: 20px;
+text-align: justify; 
+
+}
+
+section{
+	width: 700px;
+	background: white;
+	height: 600px;
+	float: left;
+	margin-top: 5px;
+	border-radius: 10px;
+}
+aside{
+
+	width: 290px;
+	background: silver;
+	height: 600px;
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+	border-radius: 10px;
+}
+
+footer{
+width: 1000px;
+height: 60px;
+background: gray;
+float: left;
+margin-top: 5px;
+border-radius: 10px;
+}
+
+p{
+    font-family: 'Indie Flower', cursive;
+	font-size: 15px;
+	font-weight: bolder;
+	line-height: 24px;
+	padding: 10px;
+	text-align: justify;
+}
+
+
+
+
+/*CLASES*/
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.menu:link{color: white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
+.menu:active{color: white; text-decoration: none;}
+IMG.imgcenter{
+	
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	border:none;
+	border-radius:10px; 
+	 
+	 }
+   IMG.boton{
+	 
+	
+	margin-left:auto;
+	margin-right:40px;
+	border:none;
+	border-radius:10px; 
+	
+	 
+	 }
+	 p.small {
+    line-height: 0.9;
+}
+	 
+	 
+
+
+/*formulario*/
+#contact-form {  
+   background-color: silver;
+   width: 465px;  
+   padding: 20px;  
+   margin: 50px auto;  
+   border-radius: 15px;    
+   -moz-border-radius: 15px;  
+   -webkit-border-radius: 15px;  
+}
+ 
+#contact-form input,  
+#contact-form select,  
+#contact-form textarea,  
+#contact-form label {  
+   font-size: 15px;  
+   margin-bottom: 2px;
+   font-family: Arial, san-serif;
+}  
+ 
+#contact-form input,  
+#contact-form select,  
+#contact-form textarea {  
+   width: 420px;
+   background: #fff;
+   border: 0;
+   -moz-border-radius: 5px;  
+   -webkit-border-radius: 5px;  
+   border-radius: 5px;
+   margin-bottom: 25px;  
+   padding: 5px;  
+}  
+ 
+#contact-form input:focus,  
+#contact-form select:focus,  
+#contact-form textarea:focus {  
+   background-color: #E5E6E7;
+}  
+ 
+#contact-form textarea {  
+   height: 150px;  
+}  
+ 
+#contact-form #submit {  
+   width: 450px;  
+   color: #BFD7C1;  
+   border: none;  
+   background-color: #6EA070;
+}  
+ 
+#contact-form #submit:hover {  
+   background-color: #BFD7C1;  
+   color: #6EA070;
+}
+ 
+input:required, textarea:required {  
+   box-shadow: none;
+   -moz-box-shadow: none;  
+   -webkit-box-shadow: none;  
+   -o-box-shadow: none;  
+}
+ 
+#contact-form .required {  
+   font-weight:bold;  
+   color: #E5E6E7;      
+}
+ 
+#failure, #success {
+   color: #6EA070;
+   display:none;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+
+<html lang="es" class"no-js">
+
+ <!-- Hola soy un comentario...  -->
+
+
+<head>
+	
+	<meta charset="UTF-8">
+	<meta content="Juan Camilo Correa" name="author"/>
+	<meta content="pagina adopcion de mascotas" name="description"/>
+	<meta content="GATOS,PERROS,MASCOTAS,ADOPCION,FUNDACION" name="keywords"/>
+	<title>ADOPCION MASCOTAS PUERTO ASIS</title>
+	<link rel="stylesheet" href="css/normalize.css">
+	<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light|Indie+Flower' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+
+<body>	
+
+<Div id="contenidos">
+	<header>
+	
+    <img src="img/banner1.jpg">
+        
+	</header>
+
+<nav>
+	<ul class="menu">
+		<img src="img/boton1.png" class="boton">
+        <img src="img/boton2.png" class="boton">
+        <img src="img/boton3.png" class="boton">
+        <a href="adopta.html"><img src="img/boton4.png" class="boton"></a>
+        <img src="img/boton5.png" class="boton">
+        <img src="img/boton6.png" class="boton">
+        
+	</ul>
+</nav>
+
+<section>
+  <h1>Un amigo peludo necesita tu ayuda </h1>
+  
+	<article>
+    <p>
+   En nuestra Fundación, hay más de 100 peludos entre perritos y gatos que buscan hogares son animales maravillosos que buscan  su propia adopción y la del resto de 		   habitantes de la Fundación Voz Animal, ellos te necesitan  con tu amor y ayuda él /ella se llenarán de vida y felicidad.
+	</article>
+    </p>
+</section>
+
+<aside>
+    <ul>
+    	<a href="adopta.html"><img src="img/adopta3.jpg" class="imgcenter"></a>
+        <a href="https://www.mercadopago.com.co/"><img src="img/apoyanos.png"  class="imgcenter"></a>
+        <img src="img/gatoredes.jpg" class= "imgcenter">
+        
+		<li><a href="http://www.facebook.com"> <img src="img/facebook2.png"</a></li>
+		<li><a href="httP://www.instagram.com"><img src="img/instagram2.png"</a></li>
+        <li><a href="http://www.twitter.com"><img src="img/logotwitter2.png"</a></li>
+        <li><a href="http://www.twitter.com"><img src="img/logoyoutube.png"</a></li>
+	</ul>	
+</aside>
+
+<footer>
+  <h3>Copyright 2016 © Fundacion Patitas de Corazon. Powered by Juan Camilo Correa </h3>
+</footer>
+
+
+
+
+
+</Div>
+</body>
+
+
+<script src="js/modernizr.js"></script>   
+<script src="js/prefixfree.min.js"></script>
+<script src="js/jquery-2.1.1.js"></script>   
+
+
+
+
+
+</html>
